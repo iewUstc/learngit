@@ -25,3 +25,4 @@ issue101 is test3 in this project
 issue101 new add to see conflict
 
 issue103 new add to merge
+issue103 to see stash
