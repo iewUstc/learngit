@@ -11,3 +11,5 @@ Creating a new branch is quick and simple.
 分支管理策略
 
 new add a line
+
+this add is just a test
